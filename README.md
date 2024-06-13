@@ -1,84 +1,22 @@
-<<<<<<< HEAD
-# windows-clone
-It is a web application that allows users to experience the look and feel of Windows 11 without having to install the operating system on their computer. The Windows 11 Web clone is built using HTML, CSS, and JavaScript, and it uses the Vue.js framework to create a responsive and interactive user interface.
-=======
-# Vuetify (Default)
+# 💫 About Me:
+As a passionate and dedicated Vue.js developer, I thrive in fast-paced environments where innovation and creativity meet. With a strong foundation in computer science and a keen eye for detail, I excel at crafting scalable, maintainable, and user-friendly applications that delight users.<br><br>With [number] years of experience in the industry, I've had the privilege of working on a wide range of projects, from complex single-page applications to robust enterprise systems. My expertise in Vue.js, combined with my knowledge of modern web development technologies, enables me to tackle challenging projects with confidence and precision.<br><br>I'm a strong believer in the power of collaboration and open communication. I thrive in team environments where ideas are shared, and knowledge is exchanged. My excellent problem-solving skills, paired with my ability to explain complex concepts in simple terms, make me a valuable asset to any development team.<br><br>When I'm not coding, you can find me exploring the latest advancements in web development, attending industry conferences, or contributing to open-source projects. I'm passionate about giving back to the community and sharing my knowledge with others.<br><br>Personal Values:<br><br>Innovation: I believe that innovation is the key to success in the fast-paced world of web development. I'm always looking for new ways to improve my skills and stay ahead of the curve.<br>Collaboration: I thrive in team environments where ideas are shared, and knowledge is exchanged. I believe that together, we can achieve more than we can alone.<br>Continuous Learning: I'm committed to ongoing learning and self-improvement. I believe that there's always room to grow and learn, and I'm passionate about staying up-to-date with the latest developments in web development.<br>Fun Facts:<br><br>I'm a self-taught developer who learned to code from online resources and tutorials.<br>I'm an avid reader and enjoy staying up-to-date with the latest industry blogs and publications.<br>In my free time, I enjoy hiking and exploring new outdoor destinations.<br>This "About Me" section provides a brief overview of your background, skills, and personality, while also giving a glimpse into your values and interests. Remember to keep it concise, engaging, and authentic!
 
-This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
 
-## ❗️ Important Links
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dixitcoder) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dixitcoder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dixitcoder) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dixitcoder) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/dixitcoder) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/dixitcoder) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dixitcoder) 
 
-- 📄 [Docs](https://vuetifyjs.com/)
-- 🚨 [Issues](https://issues.vuetifyjs.com/)
-- 🏬 [Store](https://store.vuetifyjs.com/)
-- 🎮 [Playground](https://play.vuetifyjs.com/)
-- 💬 [Discord](https://community.vuetifyjs.com)
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dixitcoder&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dixitcoder&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dixitcoder&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 💿 Install
+---
+[![](https://visitcount.itsvg.in/api?id=dixitcoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Set up your project using your preferred package manager. Use the corresponding command to install the dependencies:
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dixitcoder) 
 
-| Package Manager                                                | Command        |
-|---------------------------------------------------------------|----------------|
-| [yarn](https://yarnpkg.com/getting-started)                   | `yarn install` |
-| [npm](https://docs.npmjs.com/cli/v7/commands/npm-install)     | `npm install`  |
-| [pnpm](https://pnpm.io/installation)                          | `pnpm install` |
-| [bun](https://bun.sh/#getting-started)                        | `bun install`  |
-
-After completing the installation, your environment is ready for Vuetify development.
-
-## ✨ Features
-
-- 🖼️ **Optimized Front-End Stack**: Leverage the latest Vue 3 and Vuetify 3 for a modern, reactive UI development experience. [Vue 3](https://v3.vuejs.org/) | [Vuetify 3](https://vuetifyjs.com/en/)
-- 🗃️ **State Management**: Integrated with [Pinia](https://pinia.vuejs.org/), the intuitive, modular state management solution for Vue.
-- 🚦 **Routing and Layouts**: Utilizes Vue Router for SPA navigation and vite-plugin-vue-layouts for organizing Vue file layouts. [Vue Router](https://router.vuejs.org/) | [vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
-- ⚡ **Next-Gen Tooling**: Powered by Vite, experience fast cold starts and instant HMR (Hot Module Replacement). [Vite](https://vitejs.dev/)
-- 🧩 **Automated Component Importing**: Streamline your workflow with unplugin-vue-components, automatically importing components as you use them. [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components)
-
-These features are curated to provide a seamless development experience from setup to deployment, ensuring that your Vuetify application is both powerful and maintainable.
-
-## 💡 Usage
-
-This section covers how to start the development server and build your project for production.
-
-### Starting the Development Server
-
-To start the development server with hot-reload, run the following command. The server will be accessible at [http://localhost:3000](http://localhost:3000):
-
-```bash
-yarn dev
-```
-
-(Repeat for npm, pnpm, and bun with respective commands.)
-
-> Add NODE_OPTIONS='--no-warnings' to suppress the JSON import warnings that happen as part of the Vuetify import mapping. If you are on Node [v21.3.0](https://nodejs.org/en/blog/release/v21.3.0) or higher, you can change this to NODE_OPTIONS='--disable-warning=5401'. If you don't mind the warning, you can remove this from your package.json dev script.
-
-### Building for Production
-
-To build your project for production, use:
-
-```bash
-yarn build
-```
-
-(Repeat for npm, pnpm, and bun with respective commands.)
-
-Once the build process is completed, your application will be ready for deployment in a production environment.
-
-## 💪 Support Vuetify Development
-
-This project is built with [Vuetify](https://vuetifyjs.com/en/), a UI Library with a comprehensive collection of Vue components. Vuetify is an MIT licensed Open Source project that has been made possible due to the generous contributions by our [sponsors and backers](https://vuetifyjs.com/introduction/sponsors-and-backers/). If you are interested in supporting this project, please consider:
-
-- [Requesting Enterprise Support](https://support.vuetifyjs.com/)
-- [Sponsoring John on Github](https://github.com/users/johnleider/sponsorship)
-- [Sponsoring Kael on Github](https://github.com/users/kaelwd/sponsorship)
-- [Supporting the team on Open Collective](https://opencollective.com/vuetify)
-- [Becoming a sponsor on Patreon](https://www.patreon.com/vuetify)
-- [Becoming a subscriber on Tidelift](https://tidelift.com/subscription/npm/vuetify)
-- [Making a one-time donation with Paypal](https://paypal.me/vuetify)
-
-## 📑 License
-[MIT](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2016-present Vuetify, LLC
->>>>>>> af63a66 (My commit first message)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
